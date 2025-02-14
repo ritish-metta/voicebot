@@ -1,4 +1,4 @@
-# chartbot
+# voice_bot
 
 A new Flutter project integrated with a Python-based Voice Chatbot.
 
@@ -160,9 +160,10 @@ Technical Architecture:
 Client (Flutter App): The Flutter app running on the user's device handles voice input, displays the chatbot's responses, and manages the user interface.
 Server (Python Back-end): The Python back-end processes the voice input (speech recognition), generates responses (using rules or machine learning models), fetches information (news, weather), and handles the adaptive learning process. It communicates with the Flutter app through APIs.
 Technologies Used:
-
+## Approach 1
 ## Front-end: Flutter
 ## Back-end: Python
+## Approach 2
 ## direct voice bot using python
 Speech Recognition: SpeechRecognition, Vosk, other suitable libraries
 Text-to-Speech: pyttsx3, gTTS, other suitable libraries
