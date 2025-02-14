@@ -1,0 +1,22 @@
+[
+    {
+        "query": "hello",
+        "response": "Hi! How can I help you today?"
+    },
+    {
+        "query": "how are you",
+        "response": "I'm doing well, thank you for asking!"
+    },
+    {
+        "query": "what is your name",
+        "response": "I'm a voice chatbot assistant, nice to meet you!"
+    },
+    {
+        "query": "goodbye",
+        "response": "Goodbye! Have a great day!"
+    },
+    {
+        "query": "thanks",
+        "response": "You're welcome!"
+    }
+]
