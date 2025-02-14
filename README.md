@@ -122,7 +122,7 @@ chartbot/
 ├── web/
 ├── windows/
 
-# chartbot
+# voice_bot
 
 ## A new Flutter project integrated with a Python-based Voice Chatbot.
 
